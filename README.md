@@ -1,2 +1,5 @@
 # Estate-price-prediction
-multiple linear regression
+Nothing special about it :)
+just a simple problem using multiple linear regression
+
+dont forget to install requirements
